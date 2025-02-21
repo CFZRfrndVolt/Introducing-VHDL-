@@ -1,4 +1,5 @@
 Key Features:
+
 •	VHDL Coding for Digital Circuits: All projects are developed using VHDL to describe the functionality and behavior of various digital components such as gates, multiplexers, adders, and counters.
 •	Simulation with Quartus II and ModelSim: The projects make use of Quartus II for circuit design and ModelSim for functional simulation, allowing for testing and verification of digital systems.
 •	FPGA Implementation: Many of the circuits are implemented on FPGA boards, providing real-world testing and validation for designs.
